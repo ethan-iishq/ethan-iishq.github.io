@@ -4,8 +4,11 @@ title: About
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+ethan.xing 
+
+love reading
+enjoy study
 
 {% highlight javascript %}
-(() => console.log('hello, world!'))();
+console.log("ethanx");
 {% endhighlight %}
