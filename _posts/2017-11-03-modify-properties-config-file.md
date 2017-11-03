@@ -1,6 +1,6 @@
 ---
 layout: post
-title: linux下解压tar.xz文件的命令
+title: 修改jar包内的properties配置文件
 key: 20161103
 tags: jar
 ---
